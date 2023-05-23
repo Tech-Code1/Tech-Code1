@@ -13,8 +13,6 @@
   <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
   <a href="https://discord.gg/77guznJ8mZ" target="_blank">Discord</a>
   <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
-  <a href="https://github.com/Indie-Creator-Community/indie-creators-community/wiki/1-%C2%B7-Bienvenid@-%F0%9F%91%8B" target="_blank">Wiki</a>
-  <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
   <a href="https://discord.gg/77guznJ8mZ" target="_blank">Website (Pronto)</a>
   <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
   <br />
