@@ -14,7 +14,6 @@
   <a href="https://discord.gg/77guznJ8mZ" target="_blank">Discord</a>
   <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
   <a href="https://discord.gg/77guznJ8mZ" target="_blank">Website (Pronto)</a>
-  <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
   <br />
 </div>
 
